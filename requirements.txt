@@ -1,0 +1,22 @@
+# Core libraries
+numpy==1.24.3
+pandas==2.0.2
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Machine Learning
+scikit-learn==1.2.2
+xgboost==1.7.5
+
+# Data processing
+joblib==1.2.0
+
+# Notebook environment
+jupyter==1.0.0
+ipykernel==6.22.0
+
+# Visualization
+plotly==5.14.1
+
+# Utilities
+tqdm==4.65.0
