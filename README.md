@@ -1,3 +1,6 @@
+## Project Structure
+
+```
 real_estate_analysis/
 ├── data/
 │   ├── raw/                                                              # Raw data files
@@ -9,3 +12,4 @@ real_estate_analysis/
 │   └── 02_Imputation_Outlier_Skewness_handling.ipynb
 │   └── 03_Model_training.ipynb
 └── requirements.txt                                                      # Project dependencies
+```
